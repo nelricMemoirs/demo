@@ -32,3 +32,5 @@ Install docker on aws ec2 ubuntu 22.04 LTS
 >`chmod +x ~/.docker/cli-plugins/docker-compose`
 >
 >`docker compose version`
+
+> **docker sock permission denied** use thi script `sudo chmod 666 /var/run/docker.sock`
