@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+matplotlib
+dash 
+fastapi
+dash-bootstrap-components
+uvicorn
